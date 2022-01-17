@@ -1,0 +1,18 @@
+.wrapper-app {
+  height: 100vh;
+  width: 100%;
+  padding: 100px 5%;
+}
+body {
+  background-color: #2a2a2f;
+}
+p {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}

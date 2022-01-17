@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1200px) {
+  .list-video-list {
+    width: 48%;
+  }
+}
+
+@media only screen and (max-width: 1208px) {
+  .image-side {
+    display: block;
+    width: 50% !important;
+  }
+  .form-side {
+    width: 50% !important;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .list-video-list,
+  .form-side-add,
+  .form-side {
+    width: 100% !important;
+  }
+  .preview-side {
+    display: none;
+  }
+  .image-side {
+    display: none;
+  }
+}
